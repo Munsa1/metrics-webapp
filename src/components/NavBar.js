@@ -3,9 +3,9 @@ import { useDispatch } from 'react-redux';
 import { NavLink } from 'react-router-dom';
 import { MdArrowBackIosNew, MdSettings, MdKeyboardVoice } from 'react-icons/md';
 import { fetchCountriesFromApi } from '../redux/Covid19/covidReducer';
-import './NavBar.css';
+import './Navbar.css';
 
-function Navbar() {
+const Navbar = () => {
   const dispatch = useDispatch();
 
   useEffect(() => {
@@ -31,6 +31,6 @@ function Navbar() {
       </ul>
     </nav>
   );
-}
+};
 
 export default Navbar;
