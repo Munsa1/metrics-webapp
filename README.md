@@ -29,7 +29,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 1. Clone the repository
    ```sh
-   git clone https://github.com/Chimwemwe-127001/metrics-webapp.git
+   git clone https://github.com/Munsa1/metrics-webapp.git
    ```
 2. Install NPM packages
    ```sh
@@ -43,8 +43,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 👤 **Chimwemwe Sinyinza**
 
-- GitHub: [@Chimwemwe-127001](https://github.com/Chimwemwe-127001)
-- Twitter: [@chimwewme](https://twitter.com/chimwewme)
+- GitHub: [@Munsa1](https://github.com/Munsa1)
+- Twitter: [@MibengeMunsa](https://twitter.com/MibengeMunsa)
 
 ## 🤝 Contributing
 

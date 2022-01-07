@@ -5,7 +5,7 @@ import { MdArrowBackIosNew, MdSettings, MdKeyboardVoice } from 'react-icons/md';
 import { fetchCountriesFromApi } from '../redux/Covid19/covidReducer';
 import './Navbar.css';
 
-const Navbar = () => {
+function Navbar() {
   const dispatch = useDispatch();
 
   useEffect(() => {
@@ -31,6 +31,6 @@ const Navbar = () => {
       </ul>
     </nav>
   );
-};
+}
 
 export default Navbar;
