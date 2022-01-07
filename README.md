@@ -53,9 +53,8 @@ Contributions, issues, and feature requests are welcome!
 Feel free to check the [issues page](../../issues/).
 
 ## Acknowledgments
-Microverse
-
-React and React Router documentation
+- Microverse
+- React and React Router documentation
 
 Hats off to [Nelson Sakwa](https://www.behance.net/sakwadesignstudio) for the design inspiration.
 
