@@ -4,10 +4,10 @@
   - one page for the item details.
 
 ## Project Description
-> Click [here](https://loom.com/share/eb9f9d4ce19942628b7c2aa2a74105c2) to watch a video that gives a brief description of the project
+> Click [here](https://www.loom.com/share/6ce1cef478734b91a5feabdfaf41da22) to watch a video that gives a brief description of the project
 
 ## Live Demo
-> Click [here](https://covid-metrics-webapp.netlify.app/) to see the live demo
+> Click [here](tender-wescoff-adf161.netlify.app/) to see the live demo
 
 
 ItemsList page                              |  ItemDetails page
@@ -16,20 +16,20 @@ ItemsList page                              |  ItemDetails page
 
 ### Built With
 
-- [React](https://es.reactjs.org/)
-- [HTML](https://www.w3schools.com/html/)
-- [CSS](https://www.w3schools.com/css/)
-- [JS](https://www.javascript.com/)
+- React.js
+- HTML (Hyper-Text Markup Language)
+- CSS (Cascading Style Sheets)
+- JS (JavaScript)
 
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-### Installation
+### Project Installation
 
 1. Clone the repository
    ```sh
-   git clone https://github.com/Chimwemwe-127001/metrics-webapp.git
+   git clone https://www.github.com/Munsa1/metrics-webapp.git
    ```
 2. Install NPM packages
    ```sh
@@ -41,16 +41,16 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
    ```
 ## Author
 
-👤 **Chimwemwe Sinyinza**
+👤 **Munsa Mibenge**
 
-- GitHub: [@Chimwemwe-127001](https://github.com/Chimwemwe-127001)
-- Twitter: [@chimwewme](https://twitter.com/chimwewme)
+- GitHub: [@Munsa1](https://github.com/Munsa1)
+- Twitter: [@MibengeMunsa](https://twitter.com/MibengeMunsa)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/Munsa1/metrics-webapp/issues).
 
 ## Acknowledgments
 Microverse
