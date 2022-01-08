@@ -48,6 +48,7 @@ body {
 .country a h4 {
   margin: 0;
   padding-block: 20px;
+  padding-right: 13px;
 }
 
 .country .casesConfirmedVal {
