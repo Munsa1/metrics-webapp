@@ -7,7 +7,7 @@
 > Click [here](https://www.loom.com/share/6ce1cef478734b91a5feabdfaf41da22) to watch a video that gives a brief description of the project
 
 ## Live Demo
-> Click [here](tender-wescoff-adf161.netlify.app/) to see the live demo
+> Click [here](https://tender-wescoff-adf161.netlify.app/) to see the live demo
 
 
 ItemsList page                              |  ItemDetails page
